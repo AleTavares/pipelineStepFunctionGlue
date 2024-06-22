@@ -1,0 +1,7 @@
+https://learn.microsoft.com/pt-br/azure/ai-services/translator/reference/rest-api-guide
+
+https://github.com/delta-io/delta-rs
+
+https://delta-io.github.io/delta-rs/python/usage.html
+
+https://openweathermap.org/price
